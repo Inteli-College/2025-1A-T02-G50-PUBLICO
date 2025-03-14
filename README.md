@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo desenvolver um sistema de tradução simultânea da Língua Brasileira de Sinais (LIBRAS) para português texto e/ou fala, utilizando técnicas de visão computacional e inteligência artificial. O sistema é capaz de reconhecer gestos estáticos (como numerais e letras) e, futuramente, expressões faciais, promovendo a inclusão social de pessoas surdas em contextos educacionais. A solução será baseada em redes neurais convolucionais (CNNs) para reconhecimento de gestos e pode ser integrada com redes neurais recorrentes (RNNs) para capturar sequências temporais em gestos dinâmicos.
 
-## Síntese do Trabalho
+## Síntese Geral do Trabalho
 
 | **Aspecto**              | **Detalhes**                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
