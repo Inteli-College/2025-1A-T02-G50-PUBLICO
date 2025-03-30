@@ -1,15 +1,17 @@
-# Tradutor simultâneo da Língua Brasileira de Sinais para surdos e ouvintes na educação do ensino médio brasileiro.
+# Simultaneous Translator of Brazilian Sign Language for Deaf and Hearing Individuals in Brazilian High School Education
 
-## Descrição do Projeto
-Este projeto tem como objetivo desenvolver um sistema de tradução simultânea da Língua Brasileira de Sinais (LIBRAS) para português texto e/ou fala, utilizando técnicas de visão computacional e inteligência artificial. O sistema é capaz de reconhecer gestos estáticos (como numerais e letras) e, futuramente, expressões faciais, promovendo a inclusão social de pessoas surdas em contextos educacionais. A solução será baseada em redes neurais convolucionais (CNNs) para reconhecimento de gestos e pode ser integrada com redes neurais recorrentes (RNNs) para capturar sequências temporais em gestos dinâmicos.
+###### AUTOR: ALYSSON C. C. CORDEIRO - COMPUTER ENGINEER
 
-## Síntese Geral do Trabalho
+## Project Description
+This project aims to develop a simultaneous translation system for Brazilian Sign Language (Libras) to Portuguese text and/or speech, using computer vision and artificial intelligence techniques. The system is capable of recognizing static gestures (such as numbers and letters) and, in the future, facial expressions, promoting social inclusion for deaf individuals in educational contexts. The solution will be based on Convolutional Neural Networks (CNNs) for gesture recognition and may be integrated with Recurrent Neural Networks (RNNs) to capture temporal sequences in dynamic gestures.
 
-| **Aspecto**              | **Detalhes**                                                                 |
+## Work Summary
+
+| **Aspect**               | **Details**                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| **Funcionalidades**       | Reconhecimento de numerais, letras e expressões faciais em Libras; tradução em tempo real para texto/fala |
-| **Precisão**              | Alta precisão para gestos estáticos; em desenvolvimento para gestos dinâmicos |
-| **Tempo de Resposta**     | Funciona em tempo real                                    |
-| **Acessibilidade**        | Solução de baixo custo, acessível com destino para escolas do ensino médio brasileiro       |
-| **Abrangência**           | Foco inicial nos sinais básicos; potencial para expansão para outros sinais, expressões de regionalismo da Libras |
-| **Diferenciais**          | Integração para futuras expressões faciais; validação com a comunidade surda; escalabilidade |
+| **Functionalities**      | Recognition of numbers, letters, and facial expressions in Libras; real-time translation to text/speech |
+| **Accuracy**             | High accuracy for static gestures; under development for dynamic gestures   |
+| **Response Time**        | Operates in real-time                                                       |
+| **Accessibility**        | Low-cost solution, accessible for Brazilian high schools                    |
+| **Coverage**             | Initial focus on basic signs; potential for expansion to other signs and regional Libras variations |
+| **Key Features**         | Future integration of facial expressions; validation with the deaf community; scalability |
