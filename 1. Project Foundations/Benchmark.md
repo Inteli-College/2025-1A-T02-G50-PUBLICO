@@ -44,3 +44,19 @@ The following criteria were used to evaluate the solutions:
 - **Convolutional Neural Networks - LIBRAS:** Uses CNNs and OpenCV to recognize Libras alphabet gestures. Achieves high accuracy in recognizing Libras alphabet signs, focusing on static gestures, and is open-source.  
 - **Libras Reader:** Uses TensorFlow, Teachable Machine, and MediaPipe to recognize Libras number gestures, with robotics integration for automation applications.  
 - **RAS-Libras:** Uses TensorFlow, OpenCV, and PyQt5 to teach and correct Libras alphabet gestures. It is an interactive learning tool for Libras, providing instant gesture correction and focusing on educational applications.  
+
+
+---
+Referências:
+
+AVASTHI, Somyansh. _Sign Language Detection using CNN Architecture_. GitHub, 2021. Disponível em: https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture. Acesso em: 30 abr. 2025.
+
+BORGES, Lucas Alves. _Convolutional Neural Networks - LIBRAS_. GitHub, 2020. Disponível em: https://github.com/lucaaslb/cnn-libras. Acesso em: 30 abr. 2025.
+
+GUPTA, Harsh. _Sign Language Interpreter using Deep Learning_. GitHub, 2021. Disponível em: https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning. Acesso em: 30 abr. 2025.
+
+PRAXEDES, Anderson. _Leitor de Libras_. GitHub, 2020. Disponível em: https://github.com/andersonprax/Leitor-de-Libras. Acesso em: 30 abr. 2025.
+
+SERRANO, Lucas. _RAS-Libras: Reconhecimento do Alfabeto de Sinais_. GitHub, 2020. Disponível em: https://github.com/lucas-serrano/Projeto-LibRAS. Acesso em: 30 abr. 2025.
+
+THOMAS, Kevin Jose. _Sign Language Processing (ASL ↔ English Translation)_. GitHub, 2021. Disponível em: https://github.com/kevinjosethomas/sign-language-processing. Acesso em: 30 abr. 2025.
